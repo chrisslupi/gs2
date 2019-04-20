@@ -19,7 +19,7 @@ sudo pacman -S --noconfirm --needed redshift sane screenfetch scrot shotwell
 sudo pacman -S --noconfirm --needed simple-scan simplescreenrecorder smplayer sysstat 
 sudo pacman -S --noconfirm --needed terminator transmission-cli transmission-gtk tumbler
 sudo pacman -S --noconfirm --needed variety vlc vnstat wget unclutter  
-sudo pacman -S --noconfirm --needed r gcc-fortran libreoffice-fresh atom vim hunspell-en hunspell-de
+sudo pacman -S --noconfirm --needed r gcc-fortran libreoffice-fresh atom vim hunspell-en_US hunspell-de
 sudo pacman -S --noconfirm --needed texlive-lang kile texmaker
 sudo pacman -S --noconfirm --needed nextcloud
 
