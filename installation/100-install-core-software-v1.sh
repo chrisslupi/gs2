@@ -13,7 +13,7 @@ sudo pacman -S --noconfirm --needed galculator geary gimp git glances gnome-disk
 sudo pacman -S --noconfirm --needed gnome-font-viewer gnome-screenshot gnome-system-monitor gnome-terminal gnome-tweak-tool 
 sudo pacman -S --noconfirm --needed gparted gpick grsync
 sudo pacman -S --noconfirm --needed hardinfo hddtemp htop 
-sudo pacman -S --noconfirm --needed inkscape inxi lm_sensors lsb-release meld mlocate mpv
+sudo pacman -S --noconfirm --needed inkscape inxi lm_sensors lsb-release meld mlocate mpv ## inxi
 sudo pacman -S --noconfirm --needed nemo net-tools notify-osd plank polkit-gnome 
 sudo pacman -S --noconfirm --needed redshift sane screenfetch scrot shotwell 
 sudo pacman -S --noconfirm --needed simple-scan simplescreenrecorder smplayer sysstat 
