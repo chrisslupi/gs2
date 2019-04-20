@@ -9,7 +9,7 @@ sudo pacman -S --noconfirm --needed baobab bleachbit catfish clementine conky cu
 sudo pacman -S --noconfirm --needed dconf-editor
 sudo pacman -S --noconfirm --needed dmidecode 
 sudo pacman -S --noconfirm --needed evince evolution filezilla firefox
-sudo pacman -S --noconfirm --needed galculator geary gimp git gksu glances gnome-disk-utility 
+sudo pacman -S --noconfirm --needed galculator geary gimp git glances gnome-disk-utility ## gsku depreciated
 sudo pacman -S --noconfirm --needed gnome-font-viewer gnome-screenshot gnome-system-monitor gnome-terminal gnome-tweak-tool 
 sudo pacman -S --noconfirm --needed gparted gpick grsync
 sudo pacman -S --noconfirm --needed hardinfo hddtemp htop 
