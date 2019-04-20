@@ -18,10 +18,10 @@ elif which packer > /dev/null; then
 	echo "Installing with packer"
 	packer -S --noconfirm --noedit  $program 	
 
-elif which yaourt > /dev/null; then
+elif which yay > /dev/null; then
 
-	echo "Installing with yaourt"
-	yaourt -S --noconfirm $program
+	echo "Installing with yay"
+	yay -S --noconfirm $program
 		  	
 fi
 
