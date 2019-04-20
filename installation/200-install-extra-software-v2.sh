@@ -49,7 +49,7 @@ sh install-zsh-v1.sh
 
 # hardcodefixer
 
-sh hardcodefixer-v3.sh
+sh hardcodefixer-v2.sh
 
 ###############################################################################################
 

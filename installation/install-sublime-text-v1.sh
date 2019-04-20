@@ -30,10 +30,10 @@ else
 		echo "Installing with pacaur"
 		pacaur -S --noconfirm --noedit  $package
 		 	
-	elif pacman -Qi yaourt &> /dev/null; then
+	elif pacman -Qi yay &> /dev/null; then
 
-		echo "Installing with yaourt"
-		yaourt -S --noconfirm $package
+		echo "Installing with yay"
+		yay -S --noconfirm $package
 			  	
 	fi
 
